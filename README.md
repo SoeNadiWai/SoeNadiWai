@@ -1,13 +1,13 @@
-![Hello](images/hello.jpeg)
 
+<img align="right" width = 300px alt="Github" src="images/hello.jpeg" />
 
-### 🧑‍💻 About Me
-
-Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm based in Tokyo, where I've been crafting mobile experiences for the past three years. 
+### Android Developer
+Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm currently based in Tokyo, where I've been crafting mobile experiences for the past three years.
 
 * 🌱 Currently diving into Jetpack Compose and revisiting advanced Kotlin concepts.
-* ⚡️ Fun Fact: I'm an adaptable and hard-working person with a love for cartoons! 🦄
-* 📫 Feel free to connect with me via email: <a href="mailto:soenadiwai2000@gmail.com">soenadiwai2000@gmail.com</a>
+* ⚡️ Fun Fact: I'm an adaptable and hard-working person with a love for cartoons! 🦄🌸☃️
+* 📫 Feel free to connect with me via email: soenadiwai2000@gmail.com
+
 
 ### 🎓 Education
 
@@ -29,6 +29,12 @@ Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm based i
 ### 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoeNadiWai)](https://github.com/anuragk91/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=SoeNadiWai)
+
+Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/soe-nadi-wai-b700b016a/?originalSubdomain=jp)
 
 ---
 

@@ -1,5 +1,5 @@
 
-<img align="right" width = 300px alt="Github" src="images/hello.jpeg" />
+<img align="right" width = 200px alt="Github" src="images/hello.jpeg" />
 
 ### Android Developer
 Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm currently based in Tokyo, where I've been crafting mobile experiences for the past three years.

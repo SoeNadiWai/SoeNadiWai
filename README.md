@@ -15,11 +15,6 @@ Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm current
 * Japanese: JLPT N2
 * English: TOEIC 925
 
-### 💼 Work Experience
-
-* Android Developer at [TeamLab](https://www.team-lab.com/) (Contractor, employed by StarSE), 2022/08 ~ Present
-* Android Developer at Digital Fusion Co.,Ltd, Myanmar, 2019/08 ~ 2021/08
-
 ### 🛠️ Projects
 - [TMDB Mobile App](https://github.com/SoeNadiWai/TMDB_Mobile_App) (Movie Browsing Application)
 **Tech Stack:** ["Java, Android SDK, Retrofit"]

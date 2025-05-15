@@ -1,5 +1,5 @@
 
-<img align="right" width = 200px alt="Github" src="images/hello.jpeg" />
+<!-- <img align="right" width = 200px alt="Github" src="images/hello.jpeg" /> -->
 
 ### Android Developer
 Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm currently based in Tokyo, where I've been crafting mobile experiences for the past three years.
@@ -16,10 +16,9 @@ Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm current
 * English: TOEIC 925
 
 ### 🛠️ Projects
+- [Movie Studio](https://github.com/SoeNadiWai/movie-studio) (Movie Browsing Application)
 - [TMDB Mobile App](https://github.com/SoeNadiWai/TMDB_Mobile_App) (Movie Browsing Application)
-**Tech Stack:** ["Java, Android SDK, Retrofit"]
 - [Clock-Check](https://github.com/SoeNadiWai/clock-check) (ある時刻が、指定した範囲内に含まれるかどうかを調べるアプリ)
-**Tech Stack:** ["Kotlin, Jetpack Compose, RoomDatabase"] 
 
 ### 📊 GitHub Stats
 

@@ -29,7 +29,3 @@ Hi there! 👋 I'm Soe, a passionate Android Developer from Myanmar. I'm current
 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/soe-nadi-wai-b700b016a/?originalSubdomain=jp)
-
----
-
-Feel free to adapt this template to your specific needs!
